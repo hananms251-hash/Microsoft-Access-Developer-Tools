@@ -8,6 +8,23 @@ Open-source tools, sample databases, dashboards, chart animations, ActiveX examp
 
 ## 📊 Microsoft Access Chart Animation Dashboard
 
+<p align="center">
+  <img src="x26.png" alt="Microsoft Access Chart Animation Dashboard" width="900">
+</p>
+
+<p align="center">
+  <b>Microsoft Access • VBA • Chart Animation • ActiveX • Dashboard • UI/UX</b>
+</p>
+
+### 🎥 Demo & Project Links
+
+- ▶️ **Video Part 1:** [Watch on YouTube](ضع_رابط_الفيديو_الأول)
+- ▶️ **Video Part 2:** [Watch on YouTube](ضع_رابط_الفيديو_الثاني)
+- 🌐 **Project Website:** [Open Project Library](ضع_رابط_موقعك)
+- 📦 **Full Package:** Available from the project website
+- 🧰 **Mini Version:** Lightweight developer version
+
+  
 Advanced examples of animated charts and dashboards built directly inside Microsoft Access.
 
 ### Features
