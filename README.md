@@ -18,9 +18,9 @@ Open-source tools, sample databases, dashboards, chart animations, ActiveX examp
 
 ### 🎥 Demo & Project Links
 
-- ▶️ **Video Part 1:** [Watch on YouTube](ضع_رابط_الفيديو_الأول)
-- ▶️ **Video Part 2:** [Watch on YouTube](ضع_رابط_الفيديو_الثاني)
-- 🌐 **Project Website:** [Open Project Library](ضع_رابط_موقعك)
+- ▶️ **Video Part 1:** [Watch on YouTube](https://youtu.be/dskebqYvo0o)
+- ▶️ **Video Part 2:** [Watch on YouTube](https://youtu.be/cvk6KID-FlI)
+- 🌐 **Project Website:** [Open Project Library](https://sites.google.com/view/mas-projectss/sample-databases-all-for-type-full)
 - 📦 **Full Package:** Available from the project website
 - 🧰 **Mini Version:** Lightweight developer version
 
